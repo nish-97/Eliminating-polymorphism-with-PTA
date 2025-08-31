@@ -1,0 +1,18 @@
+CS614 Spring25 A1 Checklist
+===========================
+
+// Your answers should be written in a new line below each bullet.
+
+1. Did you read through the file "cs614-a4.txt" carefully?
+   Yes
+
+2. Have you followed the submission instructions strictly?
+   Yes
+
+3. Have you validated your submission using CompL Validator?
+   Yes
+
+4. Have you taken or given help from/to anyone for doing this assignment outside of public discussions and allowed modes as per the course's policy?
+   No
+
+5. If your answer to the previous bullet was a yes, please describe the nature of help and give an estimate of how many maximum marks (out of 10) should you be evaluated for your original contribution.
